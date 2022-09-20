@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ujjwal Garg
-- 👀 I’m interested in Cloud Computing and Devops
+- 👀 I’m interested in Cloud and Devops
 - 🌱 I’m currently working in Zscaler as a Cloud Ops Engineer
 - 📫 How to reach me ...
       LinkedIn : https://in.linkedin.com/in/ujjwal-garg-90780b174
